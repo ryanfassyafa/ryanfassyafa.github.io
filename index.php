@@ -110,7 +110,7 @@
       <div class="col-lg text-center kotak">
         <h3>Halo ..</h3>
         <button type="button" class="btn btn-lg btn-primar bg-pink-300 tombol py-4 px-5 shadow mb-5 fw-bold text-white" style="background: rgb(244 114 182);">KLIK AKU, DONG !</button>
-        <h1 id="teks" class="d-none animate__animated animate__pulse">Aku sayang kamu <i class="fas fa-heart text-danger animate__animated animate__heartBeat animate__repeat-3"></i></h1>
+        <h1 id="teks" class="d-none animate__animated animate__pulse">Ryan sayang kamu <i class="fas fa-heart text-danger animate__animated animate__heartBeat animate__repeat-3"></i></h1>
       </div>
     </div>
 
